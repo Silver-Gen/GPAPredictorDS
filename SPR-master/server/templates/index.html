@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Grade Predictor</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <h1>Student Grade Predictor</h1>
+  <div class="img"></div>
+  <form action = "http://localhost:5000/result" method = "POST">
+    <label for="age">Age:</label>
+    <input class="age" type="number" id="age" name="age"><br><br>
+
+    <label for="motheredu">Mother's Education:</label>
+    <input class="motheredu" type="number" id="motheredu" name="motheredu"><br><br>
+
+    <label for="fatheredu">Father's Education:</label>
+    <input class="fatheredu" type="number" id="fatheredu" name="fatheredu"><br><br>
+
+    <label for="travel">Travel Time to School (in hours):</label>
+    <input class="travel-time" type="number" step=0.1 id="travel" name="travel"><br><br>
+
+    <label for="study">Weekly Study Time (in hours):</label>
+    <input class="study-time" type="number" step=0.1 id="study" name="study"><br><br>
+
+    <label for="freetime">Free Time After School (in hours):</label>
+    <input class="free-time" type="number" step=0.1 id="freetime" name="freetime"><br><br>
+
+    <label for="goout">Time Spent Going Out with Friends (in hours):</label>
+    <input class="go-out" type="number" step=0.1 id="goout" name="goout"><br><br>
+
+    <label for="g1">Grade 1:</label>
+    <input class="g1" type="number" step=0.1 id="g1" name="g1"><br><br>
+
+    <label for="g2">Grade 2:</label>
+    <input class="g2" type="number" step=0.1 id="g2" name="g2"><br><br>
+
+    <label for="g3">Grade 3:</label>
+    <input class="g3" type="number" step=0.1 id="g3" name="g3"><br><br>
+
+    <button class="submit" type="submit">Predict Grade</button>
+  </form>
+
+  <div id="result"></div>
+
+</body>
+</html>

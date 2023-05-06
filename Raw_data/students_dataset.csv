@@ -1,0 +1,501 @@
+Region,ClassGrade,letter_grade,Gender,Ageyears,Height_cm,Travel_to_School,Travel_time_to_School,Favourite_physical_activity,Allergies,Vegetarian,Favorite_School_Subject,Sleep_Hours_Schoolnight,Sleep_Hours_Non_Schoolnight,Outdoor_Activities_Hours,Computer_Use_Hours,Watching_TV_Hours,Work_At_Home_Hours,Medu,Fedu,math score,reading score,writing score
+WI,12,A,Male,17,193,Car,15,Other,Yes,No,Science,6,9,10,3,5,2,3,3,13.4,13.4,12.6
+WI,8,B,Male,14,174,Bicycle,8,Baseball/Softball,Yes,No,Physical education,7,9,12,4,6,3,3,2,8,11.8,11
+CA,12,A,Male,17,62,Car,8,Soccer,No,No,Other,8,10,15,3,0,20,4,4,11.8,12,10
+IN,12,A,Male,17,179,Bus,20,Athletics,No,No,Social studies,6,9,1,3,2,5,2,3,15.4,15.6,13.6
+MO,11,A,Male,16,180,Car,25,Soccer,No,No,Mathematics and statistics,7,10,1,3,0,0,1,2,15.6,14.6,13.6
+MN,11,A,Male,16,175,Bus,45,Other,No,No,Other,5.5,6.5,7,1,20,3,1,1,12.6,15.4,15.2
+IN,12,A,Female,17,160.2,Bus,15,Other,No,No,English,5,4,,70,70,14,2,2,12.4,11.8,12.6
+NC,11,A,Female,16,175,Bus,10,Cycling,Yes,No,Mathematics and statistics,8,9,3,8,4,7,3,3,18.6,17.6,16.8
+GA,6,C,Female,11,142,Bus,30,Gymnastics,No,No,Art,8,,,,,,2,1,12.6,11.2,13
+NY,12,A,Female,17,173,Car,10,Other,No,No,Science,8,12,2,50,50,1,3,2,9.4,8.4,9
+CO,12,A,Female,17,168,Car,20,Baseball/Softball,No,No,Social studies,6,10,15,20,15,10,1,2,19.8,16.6,17
+VA,11,A,Female,16,171.2,Car,10,Soccer,No,No,Science,6.5,9.5,6,15,8,4,1,3,16,17.4,18
+AZ,12,A,Male,17,178,Car,15,Athletics,No,No,Physical education,8,7,13,6,0,1,1,1,15.4,17.4,17
+WI,12,A,Male,16,186,Car,5,Basketball,No,No,History,7,11,5,12,1,4,3,2,14.8,14.8,14.6
+SC,12,A,Female,18,69,Bus,8,Basketball,Yes,No,Science,5,2,12,2,0,20,2,2,16.2,17.4,17
+WI,6,C,Male,12,141,Bus,70,Running/Jogging,No,No,Mathematics and statistics,10,12,0,3,3,2,4,2,13.8,12.2,11.4
+IL,10,A,Female,15,160,Walk,30,Other,No,No,Art,8,5,2,30,6,14,2,2,11.6,9.4,8.4
+MI,9,B,Female,14,173,Car,2,Swimming,Yes,No,Art,5,10,20,2,0.5,2,4,4,10.8,12.4,13
+IL,6,C,Female,12,156,Bus,60,Other,No,No,Physical education,10,7,10,0,2,8,3,4,4.6,8.8,8.8
+MN,12,A,Male,16,190,Car,25,Hockey (Ice),Yes,No,Computers and technology,7,9,15,5,9,3,1,0,7.8,6.4,6.2
+PA,12,A,Female,17,172.7,Car,20,Swimming,No,No,Mathematics and statistics,8.5,8.5,17,4,7,2,4,4,16.6,15.2,17.6
+GA,9,B,Female,14,165,Car,15,Running/Jogging,No,No,Languages,7,9,16,5,1,2,1,3,11.6,10.4,11
+WI,12,A,Female,17,160,Car,8,Basketball,Yes,No,Mathematics and statistics,6,9,1,6,1,0,3,3,14.2,13.8,14.6
+OH,12,A,Male,18,176.5,Car,5,Baseball/Softball,No,No,Mathematics and statistics,7,9,8,5,1,7,4,3,8.8,11,10.8
+CA,12,A,Male,17,168,Car,50,Walking/Hiking,No,No,Other,7,9,0,12,0,2,2,2,9.2,7.6,6.4
+OH,7,C,Female,13,157,Car,35,Lacrosse,No,No,Music,5,8,73,57,0,2,3,3,10.2,9,8.4
+CA,8,B,Male,13,166,Car,10,Other,No,No,Other,10,4,4,2,1,4,4,2,10.6,12,11.2
+RI,12,A,Male,16,180,Walk,5,Football (American),,,,,,,,,,4,3,14.2,13.6,12
+IL,6,C,Male,12,57,Car,6,Baseball/Softball,Yes,No,Social studies,8,10,15,2,6,1,4,3,14.8,17.8,17.8
+FL,12,A,Male,17,174,Car,10,Golf,No,No,Physical education,7,9,17,1,6,0,3,3,6.6,10.8,10.2
+WY,9,B,Male,15,172,Car,3,Football (American),No,No,Music,5,1,4,40,10,0,2,4,17.4,15.8,15.4
+ID,12,A,Female,20,166,Walk,10,Tennis,Yes,No,Other,8,6,15,110,40,30,3,3,15.6,14.8,14.6
+WI,12,A,Female,17,175,Car,10,Athletics,Yes,No,History,5,8,8,48,12,10,3,2,8,8.2,7.8
+PA,12,A,Male,17,181,Car,7,Other,No,No,Science,6,8,12,5,0,1,3,3,13,13,14.2
+GA,10,A,Female,15,169,Car,30,Dancing,No,No,Mathematics and statistics,6,10,6,105,15,7,1,2,15.8,17.6,17.8
+NE,12,A,Male,18,186,Car,20,Football (American),No,No,Physical education,06-Aug,7,5,5,5,0,2,1,13.6,14.8,14.8
+NC,12,A,Female,19,178,Car,5,Other,Yes,No,Science,6,9,20,15,15,0,3,3,11.4,15.4,15
+MA,12,A,Female,16,137,Car,8,Other,Yes,Yes,Music,7,8,0,45,3,4,1,2,13.4,13,10.8
+IN,5,D,Female,11,142,Car,,,,,,,,,,,,2,3,11.6,13.6,14.6
+MO,12,A,Male,18,184,Car,15,Other,No,No,Mathematics and statistics,7,9,5,5,0,2,1,1,19.6,16.2,15.4
+TX,12,A,Male,18,185,Car,6,Soccer,No,No,Mathematics and statistics,8,9,5,3,20,3,1,2,10.8,15,14.4
+TX,12,A,Female,17,142,Walk,5,Basketball,No,No,History,05-Jun,07-Aug,5,2,5,16,3,3,15.4,13.4,12.8
+IN,6,C,Male,11,145,Car,10,Basketball,No,No,Physical education,,8,168,54,78,6,2,3,17.4,15.8,16.4
+SC,11,A,Male,16,180,Car,,,,,,,,,,,,2,4,11.6,14,14
+NY,12,A,Female,17,156,Rail (Train/Tram/Subway),57,Dancing,No,No,Science,6,11,2,15,2,3,4,4,20,17.6,17.4
+WI,6,C,Male,11,153,Car,20,Hockey (Ice),No,No,Physical education,8.5,10.5,6,1,0,4,3,3,12,9.2,10.2
+NY,12,A,Male,18,180,Rail (Train/Tram/Subway),90,Other,No,No,Science,5.5,10,0,10,0,2,4,4,12.8,12.6,11.4
+PA,5,D,Male,10,133,Car,10,Lacrosse,,,,,,,,,,4,4,13,15.2,15.6
+NJ,12,A,Female,17,165.1,Walk,3,Dancing,Yes,No,Mathematics and statistics,6.5,10,6,55,45,10,4,3,13.6,14.4,14.6
+IN,5,D,Male,11,143,Bus,10,Basketball,No,No,Physical education,9,13,14,24,32,2,2,3,12,12.6,11.4
+CO,12,A,Female,18,167,Car,5,Baseball/Softball,Yes,No,Science,8,12,8,2,10,1,1,1,13,13.6,12.8
+WI,8,B,Male,13,185,Walk,2,Other,Yes,No,Social studies,4,9,6,1,1,1,2,2,10.4,11.6,12
+IL,12,A,Male,17,168,Car,10,Soccer,No,No,Science,7,11,7,30,5,2,2,2,14.8,16.2,17
+MD,11,A,Female,18,162.5,Car,15,Dancing,No,No,Mathematics and statistics,7,9,15,10,0,2,3,4,7.2,10.6,9.8
+IN,12,A,Male,17,183,Car,11,Walking/Hiking,Yes,No,Science,8,8,2,10,0,3,3,1,11.4,11.4,9.4
+CA,12,A,Female,17,163,Bus,50,Other,Yes,No,Science,8,10,8,8,10,2,4,3,11.2,12,12.4
+NC,12,A,Female,17,162.5,Car,5,Dancing,No,No,Mathematics and statistics,6,8,8,5,5,3,1,1,13.4,16,16.8
+CA,12,A,Male,16,180,Car,7,Soccer,Yes,No,Mathematics and statistics,7,11,11,,,,4,3,17.6,17.4,16.6
+NH,12,A,Male,17,190.5,Car,8,Basketball,No,No,Mathematics and statistics,7,10,10,12,5,2,3,3,8.4,12.2,10.2
+AZ,6,C,Male,12,159,,,,,,,,,,,,,4,4,13.6,10.2,9.6
+IN,12,A,Female,17,165,Car,5,Other,Yes,No,Music,6,9,2,20,20,12,2,2,15.2,13.2,13.6
+CO,12,A,Male,17,180,Car,10,Other,Yes,No,Music,7,9,10,10,5,2,2,2,11.6,12.6,11.8
+VA,12,A,Female,17,152.4,Car,15,Soccer,No,No,Music,8,8,5,7,1,8,4,4,13.8,13.4,12.4
+NC,12,A,Male,18,168,Car,6,Tennis,No,No,Physical education,8,9,40,24,2,2,3,2,15.4,16.4,15.6
+PA,6,C,Male,11,148,Bus,10,Baseball/Softball,No,No,Physical education,6,4,20,12,18,2,4,3,16.6,18.6,19.4
+SC,11,A,Male,,175,Car,5,Table Tennis,No,No,Mathematics and statistics,7,6,2,15,15,1,3,3,9.8,14.8,14
+CA,8,B,Male,14,150,Skateboard/Scooter/Rollerblade,25,Cycling,No,No,History,9,12,2,31,3,1,2,3,14.2,12,11.2
+VA,12,A,Female,17,176,Car,16,Other,No,No,Languages,6,9,10,10,5,4,2,2,9.4,9.2,9.8
+KY,5,D,Female,11,159,Bus,20,Other,No,No,Mathematics and statistics,9,10,6,3,4,3,2,1,15.8,12.8,12
+NY,5,D,Male,11,157,Rail (Train/Tram/Subway),45,Football (American),No,No,Social studies,9,12,28,35,21,7,1,1,12,12.8,11.4
+WI,7,C,Female,12,142,Bus,60,Gymnastics,Yes,No,Art,11,9,20,24,1,3,2,3,11.2,13.6,14.6
+FL,12,A,Female,17,163.7,Car,18,Dancing,No,No,Art,5,10,0,8,4,1,2,2,11.4,10.4,9.4
+DC,6,C,Female,11,151,Car,23,Other,No,No,Mathematics and statistics,9,11,3,1,4,2,4,4,9.8,14,12.6
+MD,10,A,Female,16,168,Bus,12,Dancing,No,No,Art,6,8,4,20,30,7,3,1,15.8,15.2,16.2
+NM,12,A,Female,17,180,Car,30,Soccer,Yes,No,Physical education,3,8,4,10,5,2,3,2,14.2,15.2,13.4
+WI,8,B,Female,14,62,Car,5,Dancing,Yes,No,History,7,10,3,14,0,1,2,3,14.2,15.4,14
+NE,12,A,Male,17,176.7,Car,15,Soccer,No,No,Mathematics and statistics,9,5,21,42,7,0,2,1,9.4,12.6,11.8
+OH,12,A,Female,17,168,Car,15,,,,,,,,,,,2,1,14.4,18.2,16.2
+TX,12,A,Male,18,164,Bus,57,Martial Arts,No,No,Science,5,12,2,40,1,5,4,3,15.6,14.6,15.2
+PA,5,D,Male,10,146,Bus,30,Baseball/Softball,No,No,Physical education,8,6,15,48,10,2,2,2,10.8,8.6,9
+NY,8,B,Female,13,168,Bus,5,Swimming,Yes,Yes,Science,9,11,10,6,2,0,4,4,9.2,11.8,12.4
+DC,6,C,Female,12,154,Car,10,Cycling,Yes,No,Mathematics and statistics,9,8,2,12,8,1,4,4,6.2,7.6,8.4
+OH,12,A,Male,15,183.1,Car,10,Other,No,No,History,7,10,2,10,10,2,1,1,10.2,11.8,11.8
+MD,7,C,Male,13,163,Bus,5,Walking/Hiking,Yes,No,History,8,9,1,20,3,1,3,2,15.6,15.2,14.6
+CA,7,C,Female,12,160,,,,,,,,,,,,,2,2,6.4,8.2,7.8
+MO,11,A,Male,17,183,Car,5,Baseball/Softball,Yes,No,Science,7,7,14,2,3,30,2,1,10.6,14.2,13.8
+RI,11,A,Female,17,152.4,Bus,30,Walking/Hiking,No,No,Mathematics and statistics,3,12,2,10,5,0,2,1,12.6,15.2,13.8
+NY,12,A,Male,17,175,Car,6,Other,Yes,No,Computers and technology,6,8,7,20,5,2,2,2,19.4,18.6,17.6
+CO,11,A,Female,15,172,Car,13,Athletics,Yes,No,Physical education,,8,15,1,0,2,4,3,11.2,10.4,12.2
+AL,11,A,Male,16,180,,,,,,,,,,,,,4,4,14.4,15.2,14.4
+NC,12,A,Female,17,152,Bus,9,Bowling,Yes,No,Mathematics and statistics,6,8,2,20,4,15,4,3,11.4,9.4,8.4
+TX,10,A,Male,14,,,,,,,,,,,,,,4,4,14.8,14.2,14
+MA,12,A,Female,16,162,Car,10,Soccer,No,No,Mathematics and statistics,6,8,12,15,15,5,2,1,16.2,16.2,17.4
+OK,12,A,Female,16,173,Car,15,Skateboarding/Rollerblading,No,No,Mathematics and statistics,5,10,0,12,4,24,2,1,18.8,17.4,18.6
+IL,6,C,Male,12,148,Car,5,Basketball,No,No,Mathematics and statistics,10.5,15,2,2,4,5,2,3,16.2,14.6,14.4
+IN,12,A,Female,17,170,Bus,7,Football (American),No,No,Physical education,7,12,6,10,2,4,3,1,11.6,12.6,13.4
+GA,12,A,Female,18,106,Car,15,Swimming,No,No,Other,6,10,6,2,0,3,3,3,19,20,20
+CA,6,C,Male,11,139,Car,20,Martial Arts,Yes,No,Computers and technology,7,10,8,23,3,1,0,2,9,10.4,9.8
+IN,8,B,Female,14,161,Bus,5,Swimming,No,No,English,8,9.5,1,0,0,2.5,3,2,12.6,10,9.8
+KS,12,A,Female,18,176,Car,5,Other,No,No,Mathematics and statistics,6,6,12,10,3,5,3,3,12,10.8,10.6
+GA,9,B,Female,14,175,Bus,15,Walking/Hiking,Yes,No,History,8,8,,,,,2,1,10.8,12.2,12.4
+CA,12,A,Female,17,125,Car,10,None,No,No,English,6,8,,,,,2,1,15,15.6,15.8
+IN,12,A,Male,17,187,Car,4,Golf,Yes,No,Science,10,12,15,2,1,1,2,1,15.8,15.6,15.4
+GA,9,B,Female,14,179,Bus,64,Walking/Hiking,Yes,No,Art,5,4,1,15,1,1,2,2,13.2,13.4,13.4
+IA,7,C,Male,13,167,Bus,20,Athletics,No,No,Computers and technology,8,10,10,10,1,1,2,2,9.4,11.6,11.6
+KS,12,A,Female,17,160,Bus,23,None,Yes,No,Music,7,6,0,30,5,1,4,2,14,15.6,16.4
+CA,7,C,Male,12,143,Car,10,None,No,No,Physical education,9,8,0,7,7,0,3,4,16.4,14.8,14.6
+IN,11,A,Female,17,152,Car,15,Soccer,No,No,Science,8,9,21,10,12,10,4,4,11.2,7.6,8.8
+CT,11,A,Female,16,152,Bus,30,Tennis,Yes,No,Computers and technology,8,11,2,4,2,2,4,4,18.4,15.6,14.2
+SC,11,A,Male,17,180,Car,15,Soccer,No,No,Science,7,10,12,1,3,1,4,4,6,6.6,6.6
+NY,12,A,Female,17,,Walk,15,Basketball,No,Yes,Science,7,6,4.5,48,8,2,4,3,15.8,17.6,17.2
+CA,7,C,Male,12,144,Walk,15,Soccer,Yes,No,Physical education,9,12,5,10,3,0,3,3,8.2,10.4,9.4
+CA,12,A,Male,17,193,Bus,15,None,Yes,No,Other,6,8,0,35,0,0,3,2,12.6,16.4,14.2
+VA,12,A,Female,17,179,Car,7,Other,No,No,Physical education,7,9,50,70,20,10,2,3,8.6,6.8,6.6
+WI,12,A,Male,17,175,Car,40,Cycling,No,No,History,6,10,2,72,20,2,4,3,15.4,15.2,14.8
+GA,6,C,Female,11,,,,,,,,,,,,,,4,4,15.2,15.8,15.2
+WA,11,A,Female,16,160,Car,5,Other,Yes,No,Music,7,9,1,4,1,1,3,4,9.8,12.2,12.6
+IN,12,A,Female,18,152,Car,8,Soccer,No,No,Physical education,6,11,8,18,2,1,2,2,11.8,11.4,11
+CO,11,A,Female,16,168,Bus,35,Skateboarding/Rollerblading,No,No,Mathematics and statistics,10,14,0,4,0,2,2,2,11.8,14,11.6
+NC,12,A,Male,16,181,Car,3,Tennis,No,No,Science,7,4,,,,,4,4,15.2,18,17.4
+MO,12,A,Male,16,184,Car,11,Athletics,Yes,No,Music,9,10,15,20,0,2,4,4,11,14.2,14.2
+CA,11,A,Female,17,,Walk,12,,,,,,,,,,,2,2,15.6,17.4,17.8
+CA,12,A,Female,17,,,,,,,,,,,,,,2,2,10.2,10.6,12.4
+SC,11,A,Male,17,168,Car,10,Football (American),No,No,History,7,12,5,10,20,2,4,3,8.2,8.6,9
+GA,6,C,Male,11,162,Bus,14,Martial Arts,No,No,Physical education,9.5,4,8,48,60,5,3,3,14.8,15.6,17.2
+FL,11,A,Male,16,180,Car,20,,,,,,,,,,,4,3,12.4,10.8,11.6
+TX,12,A,Male,17,183,Car,20,Golf,Yes,No,Science,6,10,1,3,1,1,4,2,15.4,14.2,12.8
+CA,6,C,Male,12,161,Car,20,Soccer,No,No,Physical education,8,10,20,20,15,0,4,4,9,10.4,9
+GA,11,A,Male,16,203,Car,20,,,,,,,,,,,2,2,20,16.8,17.4
+VA,12,A,Male,17,190.5,Car,10,Soccer,No,No,History,7,8,30,30,20,5,4,2,16.6,19,20
+MI,11,A,Female,15,157,Car,5,Other,Yes,No,History,9,12,2,6,40,1,4,2,15.4,15,16.4
+PA,12,A,Male,17,175,Car,5,Other,No,No,Science,6,9,,,,,4,4,13.2,14,12.8
+NY,12,A,Female,16,168,Walk,10,Soccer,No,No,History,6,9,15,10,8,0,3,3,13,12.6,11.4
+NY,6,C,Female,11,165,Rail (Train/Tram/Subway),25,Basketball,No,No,Science,9,10,10,3,6,,2,1,12.4,11,11.2
+IN,10,A,Female,15,165,Bus,25,Dancing,No,No,Mathematics and statistics,8,10,5,16,5,2,4,3,11,10.8,10.8
+MA,12,A,Female,17,229,Car,8,Rowing,No,Yes,History,8,9,6,20,1,2,4,4,14.6,15.6,13.8
+DE,12,A,Male,17,193,Car,25,Football (American),Yes,No,History,7,5,4,5,14,3,1,2,14.6,16.2,15.2
+ID,12,A,Female,21,162,Walk,14,Basketball,No,No,Social studies,7,8,7,5,0,3,4,2,9.6,13.2,13.6
+WI,7,C,Female,13,171,Walk,25,Swimming,Yes,No,Art,,,,,,,4,4,10.4,8.8,9.8
+CA,12,A,Female,17,180,Walk,10,Soccer,No,No,English,6,9,4,9,10,5,1,1,12,14.4,12.8
+SC,11,A,Male,18,160,Bus,1,Running/Jogging,No,No,Physical education,6,8,0,12,2,0,1,2,13.6,12.6,11.4
+MN,11,A,Female,16,173,Car,20,Swimming,Yes,No,Social studies,8 1/2,09-Dec,1,30,1,1,4,3,13,15.4,16.6
+PA,12,A,Female,17,163,Car,15,Athletics,Yes,No,Mathematics and statistics,8,10,13,6,6,0,4,3,17.2,16.6,17.4
+SC,11,A,Female,16,154,Car,10,Lacrosse,No,No,Science,6,8,10,15,3,4,4,3,11,12.4,12
+CA,7,C,Female,12,164,Car,7,Skateboarding/Rollerblading,Yes,No,Music,06-Jul,10,2,10,2,1,4,4,16,14.2,13.6
+CO,7,C,Female,13,163,Bus,17,Soccer,No,No,Mathematics and statistics,6,8,14,70,10,2,3,1,10.2,11.4,11.4
+SC,12,A,Female,18,160,Car,6,Gymnastics,No,No,Science,6,8,5,4,6,2,2,2,12.6,12.2,13.2
+AR,8,B,Male,13,170,Bus,10,Basketball,No,No,Art,11,11,0,0,0,1,3,1,12,11,9.2
+PA,10,A,Female,16,65.5,,15,,,,,7,7,,,,,3,1,20,20,20
+WI,12,A,Female,17,170,Car,20,Running/Jogging,Yes,No,Mathematics and statistics,7,9,18,2,7,1,4,2,9.2,8.8,8.8
+CA,12,A,Female,16,,,,,,,,,,,,,,1,1,13.4,15.6,16
+MI,9,B,Female,15,16,Car,10,Lacrosse,Yes,No,English,7,9,8,12,1,2,3,1,10.8,13.4,11.8
+WI,8,B,Male,13,167,Bus,15,Other,No,No,Mathematics and statistics,6,9,12,20,15,4,3,3,12.6,15.8,15.2
+SC,11,A,Male,16,178,Car,17,None,No,No,History,6,7,3,7,1,1,4,3,13.6,13.2,14.6
+CA,4,D,Male,17,173,Car,15,Walking/Hiking,No,No,English,6,8,7,14,0,4,4,0,10.8,12.6,11.6
+IN,11,A,Male,17,180.3,Car,10,Athletics,No,No,Mathematics and statistics,7,6,6,1,1,1,2,2,8.6,8.8,9.4
+PA,12,A,Female,17,168,Car,10,Lacrosse,Yes,No,English,8,8,10,70,30,3,2,1,12.8,12.8,11.8
+NC,12,A,Male,17,190.5,Car,20,Swimming,Yes,No,History,7,10,18,35,20,1,3,4,18.4,17.4,17.4
+MI,12,A,Female,17,155,Car,24,None,Yes,No,History,7,9,0,37,10,0,2,3,16.4,19,18.6
+OK,12,A,Female,20,183,Car,5,Other,No,No,English,6,8,2,8,1,3,2,3,16.8,15.6,15.8
+WI,11,A,Male,17,184,Car,5,Lacrosse,Yes,No,Mathematics and statistics,10,6,20,3,1,2,3,2,16.8,19.6,19.4
+TX,5,D,Male,11,152,Car,30,None,Yes,No,Science,8,11,0,24,7,0,2,2,13,12.6,13
+MA,12,A,Female,17,155,Car,10,None,No,No,Art,6,9,1,0,1,0,1,1,16.6,18.4,18.2
+SC,11,A,Male,16,165,Bus,60,Soccer,No,No,Science,8.5,9.5,2,2,5,1,4,4,14,15,15
+CA,11,A,Male,17,178,Car,30,Other,Yes,No,Music,8,10,10,20,0,0,2,2,13.2,14.4,14
+OH,12,A,Male,17,195.6,Car,15,Bowling,,,,,,,,,,4,2,14.2,17.4,18.4
+RI,6,C,Male,12,153,Car,8,Other,Yes,No,Physical education,8,9,16,4,3,3,2,2,13.2,12.8,11.6
+IN,12,A,Female,17,157.5,Car,15,None,No,No,Other,6,8,0,70,20,5,4,4,11.4,12.8,13.6
+PA,6,C,Female,12,157,Bus,15,Hockey (Field),No,No,Social studies,7,4,2,10,7,2,3,3,17.2,18,18.6
+OH,8,B,Female,13,164,Walk,2,Athletics,Yes,No,History,5,7,1,14,5,2,4,3,16,17,16.6
+CA,12,A,Male,17,73,Bus,20,Walking/Hiking,No,No,Mathematics and statistics,6,10,0,40,2,0,3,1,12.4,12,11.8
+TN,12,A,Male,18,182,Car,10,Baseball/Softball,No,No,Art,6,8,15,1,25,1,4,2,14.2,14.2,15.2
+MD,12,A,Female,16,178,Bus,15,Other,No,No,Music,6,9,1,30,20,1,2,2,11.4,13.2,14.2
+IN,11,A,Male,18,167.6,Bus,10,Other,No,No,Music,5,8,15,5,5,,1,1,13.8,12.8,12.4
+DC,6,C,Male,11,157,Bus,30,Other,No,No,Art,12,9,48,9,9,0,4,3,16.6,14.8,14.4
+ID,12,A,Female,16,165,Car,10,Soccer,Yes,No,History,8,10,0,40,14,3,2,1,10,11.2,12
+TX,4,D,Female,18,160,Car,15,Dancing,,No,Other,9,12,3,120,3,6,4,4,11,11.2,11.2
+NY,12,A,Female,18,160,Rail (Train/Tram/Subway),45,Dancing,Yes,,Mathematics and statistics,7,9,1,1,2,1,4,3,11,10.6,10.2
+FL,12,A,Male,17,179,Car,35,Other,No,No,Mathematics and statistics,7,11,4,12,2,5,4,4,16.6,18.6,19
+OH,8,B,Female,14,164,Bus,10,Soccer,Yes,No,Geography,8,8.5,10,10,7,1,4,4,17.8,17.4,17.2
+NC,9,B,Female,14,156,Car,3,Dancing,No,No,Mathematics and statistics,7,10,,,,,4,4,10.2,12.4,12.8
+IL,12,A,Male,17,183,Car,15,Golf,No,No,History,8,5,5,1,6,6,3,2,9.6,10.4,9.8
+IN,12,A,Male,18,186,Car,10,Basketball,No,No,Physical education,9,6,12,10,3,2,3,4,16.8,19,17.8
+NC,12,A,Male,17,172.2,Car,3,,,,,,,,,,,3,3,13.8,16.6,15.2
+OH,12,A,Female,17,,Car,20,Walking/Hiking,No,No,Art,6,8,2,12,0,5,2,2,15,17,17.4
+GU,9,B,Male,14,63,Car,25,Soccer,,,,,,,,,,3,3,18.2,20,19.8
+NY,6,C,Female,11,137,Bus,20,Soccer,,,,,,,,,,4,4,15.2,15.4,13.4
+WI,7,C,Female,13,155,Car,15,Walking/Hiking,No,No,Art,9,11,4,8,7,7,4,4,12.6,12.2,11.8
+WI,7,C,Female,13,156,Car,4,Dancing,No,No,Other,7.5,9,6,5,10,1,4,4,14.6,13,12.8
+FL,12,A,Male,17,179.6,Car,20,Other,No,No,Science,7,9,10,6,1,2,3,3,10.4,12.6,10.6
+NC,12,A,Female,18,162.5,Bus,6,Swimming,Yes,No,Art,8,9,0,10,4,2,2,2,11.6,11.4,10.6
+CA,12,A,Female,16,160,Car,3,Soccer,Yes,Yes,Languages,3,8,5,1,1,0,4,2,6.6,10.2,10.2
+MI,12,A,Male,,,,,,,,,,,,,,,2,1,13.6,12.4,12.2
+GA,8,B,Female,11,152.4,Car,15,,,,,,,,,,,4,4,15.4,18.2,17.8
+CT,12,A,Male,18,181,Walk,0,Lacrosse,No,No,Mathematics and statistics,10,7,12,4,4,2,4,4,12.8,12.8,13.2
+ID,12,A,Female,18,154,Walk,10,Walking/Hiking,Yes,No,Music,7,9,2,30,0,2,3,3,7.8,9.8,9.6
+TX,12,A,Male,17,187.9,Car,10,Football (American),,,,,,,,,,1,3,10,9.2,9.6
+NC,6,C,Male,11.67,164,Boat,10,Soccer,Yes,No,Physical education,2,0,0,45,7,10,3,4,10.6,11.4,10.2
+SC,11,A,Female,16,158,Car,40,Other,,,,,,,,,,1,2,10.8,12.4,14
+WI,7,C,Female,13,143,Bus,60,Running/Jogging,No,No,Art,9,11,1,5,10,84,2,2,14.8,12.6,13
+CA,9,B,Female,14,150,Car,9,Skateboarding/Rollerblading,No,Yes,Other,5,9,5,2,4,1,2,4,10,12.6,13
+OH,12,A,Male,18,190.5,Car,10,Bowling,Yes,No,Music,5,9,1,8,3,1,4,4,11,10.8,9.4
+PA,6,C,Female,11,144,Bus,20,Dancing,Yes,No,English,8,10,6,2,6,3,2,2,15.4,12.8,14
+SC,11,A,Male,17,179,Car,15,Swimming,No,No,History,8,9,1,30,70,2,3,4,9.8,12.8,13.4
+VT,10,A,Male,15,152.4,Car,15,Other,Yes,No,Mathematics and statistics,5,5,3,1,3,3,3,4,13.2,16.6,16.4
+AZ,12,A,Male,16,172.7,Car,10,Soccer,No,No,History,6,10,10,9,3,3,0,1,15.4,14.8,15
+OR,9,B,Male,15,167.6,Walk,3,Football (American),Yes,No,Art,7,8,17,20,3,3,2,2,14.8,15.6,16.8
+GA,6,C,Male,11,66,Bus,5,Baseball/Softball,No,No,Mathematics and statistics,9,9,12,4,5,1,4,4,17,15.6,16.2
+RI,6,C,Male,12,171,Car,20,Football (American),Yes,No,Physical education,10,16,5,1,3,3,3,4,15.4,17.2,16.8
+VA,12,A,Male,16,171,Car,15,Soccer,Yes,No,History,7,9,12,72,48,8,1,1,12.8,12.4,13.2
+CA,11,A,Female,17,162,Car,5,Swimming,Yes,No,Music,7,7,0,21,1,3,2,2,12.2,13.8,13.6
+CA,12,A,Male,17,178,Bicycle,20,None,No,No,Art,6,9,0,60,0,3,3,4,19.4,17.6,17
+CA,12,A,Male,18,166,Car,10,Soccer,No,No,History,6,10,8,3,1,1,3,4,13.2,15,14
+IN,12,A,Female,17,181,Bus,7,Other,No,No,Other,7,7,20,12,6,7,4,4,12.4,13.2,12.8
+SC,10,A,Male,17,194,Car,6,Football (American),No,No,Physical education,7,6,15,0,0,1,3,4,12.8,16,15.4
+CA,11,A,Male,16,171,Bus,70,Soccer,No,No,Mathematics and statistics,7,9,0,24,0,7,3,3,11,11.4,12
+CA,12,A,Male,15,173,Walk,15,None,Yes,No,Science,6,9,0,10,0,1,1,1,10.6,14.4,13.2
+IN,12,A,Male,17,158,Car,15,Baseball/Softball,No,No,Physical education,5,5,14,8,12,10,4,4,14.2,16.2,15.4
+SC,11,A,Female,16,175,Car,10,Golf,Yes,No,English,7,10,33,60,15,7,4,3,13.2,11.8,13.6
+TN,12,A,Female,17,147.3,Bus,85,Other,Yes,No,Music,3.5,10,,,,,2,2,13.6,12.2,12.4
+CA,12,A,Female,17,165,Car,10,Swimming,No,No,Art,7,9,43,54,45,54,4,4,17.8,18,16.6
+WI,12,A,Female,17,168,Walk,7,Basketball,No,No,Science,9.5,8,30,3,0,20,1,1,13,13.8,14.8
+MT,12,A,Male,18,67,Car,15,Athletics,Yes,No,Science,7,10,20,40,15,10,2,1,8.6,9.6,8.8
+NC,12,A,Female,16,175,Walk,4,Other,No,No,Art,6.5,9,0,30,0,2.5,1,1,15.8,15.4,16.6
+NC,11,A,Female,17,156,Car,5,Dancing,No,No,Science,8,10,1,,,,3,2,19.8,18.8,19.4
+WA,11,A,Female,17,167.6,Bus,18,Baseball/Softball,No,No,History,6,8,0,6,10,5,1,2,16.4,13.8,14.4
+CA,12,A,Female,17,157,Walk,35,Hockey (Ice),No,No,Mathematics and statistics,6,10,10,10,5,5,4,4,7,7.2,7.8
+MO,12,A,Male,17,179,Car,7,Other,Yes,No,Computers and technology,8,10,3,6,1,1,2,1,12.2,14.2,14.6
+IA,10,A,Female,16,169,Car,2,Dancing,,No,Music,8,2,2,3,2,5,1,1,15.2,16,16.2
+OH,8,B,Male,13,173,Bus,30,Soccer,Yes,No,Physical education,09:30,3,10,10,2,3,2,1,18.8,16.6,16.4
+IN,12,A,Female,18,165,Car,15,Soccer,No,No,Art,7,9,7,4,3,0,4,4,15,18,15.6
+MA,12,A,Female,17,152.4,Car,10,Basketball,No,No,Physical education,6,8,1,5,2,0,1,1,16.2,15,14
+FL,12,A,Male,17,180,Bus,25,Other,Yes,No,History,7,11,8,10,1,1,1,1,7,8.8,6.6
+WI,12,A,Female,17,178,Car,10,Other,Yes,No,Mathematics and statistics,7,9,8,15,3,2,4,2,15.2,14.8,14.4
+CA,7,C,Female,12,62,Car,7,Soccer,Yes,No,Mathematics and statistics,8,8,5,7,6,3,3,3,11.6,15.8,16.4
+NJ,12,A,Male,17,185,Car,8,Walking/Hiking,No,No,History,6,8,5,35,2,0,4,3,20,18.2,18
+CT,12,A,Male,17,175,Car,3,Football (American),No,No,History,6,5,15,1,0,5,2,2,10.6,13.6,12.8
+AR,8,B,Male,14,165,Car,20,Basketball,No,No,Science,9,10,24,2,2,1,4,4,16.4,19,19.2
+AR,7,C,Female,12,156,Bus,45,Gymnastics,No,No,Computers and technology,8.5,9.5,1,21,20,5,3,2,15.2,12.4,12.8
+CO,9,B,Female,15,167.6,Bus,10,Football (American),No,No,Other,5,12,1,2,0,1,3,4,16.6,15,15
+CA,12,A,Female,16,163.5,Walk,15,Walking/Hiking,Yes,No,History,5,7,2,35,8,3,4,4,14.4,16.8,16.4
+TX,12,A,Male,17,168,Car,10,Football (American),No,No,History,7,8,9,4,12,1,2,1,15.2,15.2,16.6
+CO,7,C,Male,12,164,Car,5,Basketball,Yes,No,Physical education,8,10,8,4,3,2,4,4,13.2,12.8,11.6
+KY,11,A,Male,17,168,Car,15,Tennis,No,No,History,7,9,10,2,5,3,4,3,12.6,13,12.6
+MA,6,C,Male,12,160,Bicycle,2,Athletics,No,Yes,History,8.8,7,40,15,4,15,2,2,7.2,6.8,5.6
+VA,12,A,Female,17,165,Car,15,Athletics,Yes,No,English,5,13,10,20,3,5,4,4,13.6,14.8,14.2
+MN,9,B,Female,14,158,Bus,15,Dancing,No,No,English,6,4,0,10,4,3,4,4,8,10.4,8.4
+CA,8,B,Male,13,182,Car,12,Skateboarding/Rollerblading,No,No,Mathematics and statistics,8,4,10,10,4,5,3,3,13.6,14.2,12.2
+TX,7,C,Female,10,144,Car,20,Baseball/Softball,Yes,No,Mathematics and statistics,9,10,10,9,9,10,3,2,11.2,10.8,10.4
+MI,9,B,Female,14,167,Car,10,Basketball,No,No,English,6,7,4,2,5,1,4,3,14.8,16.6,16
+PA,12,A,Female,17,154,Car,2,Soccer,No,No,Physical education,8,8,6,6,1,2,4,3,10.6,14,14.2
+NY,11,A,Male,17,172.7,Walk,12,Football (American),Yes,No,History,8,10,12,15,10,3,4,4,17.6,13,14
+RI,12,A,Female,18,164,Bus,40,Other,No,No,Art,7,9,2,0,7,2,4,2,13.4,12.6,12.2
+IN,11,A,Female,17,162,Walk,10,Walking/Hiking,No,Yes,Science,5,4,1,4,0,1,2,2,12,15.2,13
+TX,12,A,Female,17,174,Car,15,Swimming,Yes,No,History,7,9,20,16,5,4,2,4,10.2,12.2,10.8
+DE,12,A,Male,17,182.8,Walk,15,Basketball,Yes,No,Mathematics and statistics,6,4,20,6,1,5,1,1,10.6,13.2,11.8
+GA,12,A,Male,17,187.9,Car,187,Football (American),,,,,,,,,,4,2,16,15.6,14.8
+IN,12,A,Female,18,160,Car,14,Other,Yes,No,Science,6,9,1,84,7,7,4,3,13.8,14.2,13.4
+PA,6,C,Male,12,163,Bus,30,Soccer,No,No,Mathematics and statistics,9,10,30,20,8,3,2,1,12.8,15.8,14
+CA,12,A,Female,18,164,Car,6,Skateboarding/Rollerblading,,No,History,8,10,0,7,7,2,2,2,16,17.4,17.8
+MA,6,C,Female,12,144,Bus,30,Lacrosse,,No,English,7.5,6.5,15,5,4,3,4,3,11.6,14.4,12.4
+WA,11,A,Male,17,176,Bus,30,Football (American),Yes,No,Computers and technology,9,8,0,12,0,3,4,3,7.8,9.2,10
+TN,6,C,Female,12,169,Car,33,Athletics,Yes,No,Other,9,8,7,30,7,3,3,2,12.8,11.2,10
+NJ,11,A,Male,16,182.8,Bus,30,Skateboarding/Rollerblading,Yes,No,Art,8,6,1,7,10,0,3,3,12.2,13.2,12.6
+PA,12,A,Female,17,165,Car,5,Running/Jogging,No,No,Art,8,8,,,,,2,2,18,16.4,17.6
+NC,12,A,Male,18,201,Car,20,Baseball/Softball,No,No,Physical education,8,9,15,20,5,5,3,4,14.6,14.2,12.8
+NC,7,C,Female,13,5.5,Bus,30,Dancing,Yes,No,Art,8,11,0,3,6,1,3,1,14.6,14.6,14
+MA,12,A,Male,17,177,Car,10,Athletics,Yes,Yes,Mathematics and statistics,9,7,1,2,3,3,4,4,13.4,15.2,15.4
+CA,11,A,Female,17,57,Car,5,Other,Yes,No,Other,7,12,0,0,3,6,4,2,11.4,11.6,12.4
+AR,7,C,Female,12,156,Bus,45,Skateboarding/Rollerblading,Yes,No,Art,7,3,4,0,7,2,2,1,13,14.6,14.4
+NY,12,A,Male,16,182.9,Car,7,Golf,Yes,No,Languages,5,8,0,30,40,0,3,3,14.2,14.4,14.2
+CO,12,A,,,,,,,,,,,,,,,,2,3,11.8,13.8,14.4
+GA,11,A,Female,18,170,Car,1,Other,No,No,Science,7,10,10,10,2,2,1,1,14.8,14.2,13
+CA,6,C,Male,11,150,Walk,7,None,Yes,No,Science,7,9,1,19,3,1,1,2,18.6,20,18.6
+NC,11,A,Female,16,156,Car,10,Dancing,Yes,No,Computers and technology,6,8,3,40,21,4,2,4,17,18.6,18.4
+GA,10,A,Male,16,176,Rail (Train/Tram/Subway),60,Gymnastics,,,,,,,,,,2,2,15.2,16.6,15.8
+MD,12,A,Female,18,168,Car,20,Swimming,,,,,,,,,,3,2,11.6,14.4,14
+GA,8,B,Female,13,159,Car,10,Other,Yes,No,Science,9,8,2,2,2.5,1,4,4,14.4,15.4,15.4
+CA,12,A,Female,17,152,Bus,15,Dancing,No,No,Mathematics and statistics,6,10,4,2,3,6,4,4,8,9.8,9.4
+OH,6,C,Female,12,160,Bus,15,Other,No,No,Social studies,8,5,7,2,0,1,4,3,15,14.6,13.2
+NC,12,A,Female,17,168,Car,15,Other,No,No,English,9,12,3,3,1,4,4,1,17,16.2,16
+IN,12,A,Female,17,163,Car,15,Swimming,Yes,No,Science,8,10,13,15,10,3,3,2,20,20,20
+CT,6,C,Male,12,90,Walk,5,Basketball,No,No,Physical education,9,5,6,4,2,1,1,1,10.6,13,13.2
+IL,12,A,Male,17,180,Car,8,Basketball,No,No,Other,7,9,3,10,0,2,1,1,8,8.4,7.8
+NC,12,A,Female,18,172,Car,10,Baseball/Softball,No,No,English,6,9,15,6,3,1,2,2,9.8,9.8,9.8
+AZ,12,A,Male,17,190.5,Car,7,Football (American),Yes,No,Social studies,7,10,15,30,1,2,1,1,15.4,16,16
+IL,12,A,Male,17,170,Car,15,Soccer,No,Yes,English,6,3,0,10,0,0,2,2,16.4,17.8,16.8
+OH,9,B,Male,15,77,Bus,30,Football (American),Yes,No,Mathematics and statistics,6,6,4,4,7,1,1,1,11,9.6,8.4
+MA,11,A,Female,17,155,Car,9,Walking/Hiking,No,No,Mathematics and statistics,6,10,2,90,10,2,2,1,12.4,14.2,15.4
+PA,12,A,Female,17,163,Car,7,Dancing,No,No,English,5,9,3,14,9,1,4,4,13.8,12.6,11.8
+TX,12,A,Male,18,183,Car,25,Football (American),No,No,Other,7,9,2,10,9,3,4,2,15.6,14.8,15.2
+WI,7,C,Female,13,60,Car,20,Gymnastics,No,No,Music,8,9,16,16,20,80,4,3,14.2,15.4,16.4
+NJ,10,A,Female,15,160,Walk,0,Soccer,No,No,Mathematics and statistics,6.5,8,2,1,0,0,2,1,11.8,14.2,13.2
+WA,12,A,Male,18,144.7,Car,10,Soccer,,,,,,,,,,3,1,12,15,14
+OH,12,A,Female,17,157.5,Car,5,Gymnastics,Yes,No,History,7,8,5,4,0.5,2,3,2,8.6,12,12
+NC,11,A,Female,17,172,Car,10,Athletics,No,No,Science,6,10,8,49,4,3,3,3,15.4,16.6,17.2
+NJ,5,D,Male,10,135,Car,5,Table Tennis,Yes,No,Physical education,10,10,0,2,10,1,4,4,10,9.4,9.2
+NC,12,A,Female,17,147,Car,7,Swimming,Yes,No,Art,4,12,2,15,9,5,4,3,11.2,11.6,10.4
+GA,11,A,Female,17,153,Car,5,Dancing,No,No,Mathematics and statistics,7,9,,,,,4,3,13.8,11.6,10
+NY,12,A,Female,17,163,Car,4,Baseball/Softball,Yes,Yes,Science,5,9,0,6,4,1,4,4,9.4,8.6,7.8
+TX,12,A,Male,17,174.5,Bus,15,Football (American),Yes,No,History,7,8,1,7,9,5,4,4,8.6,5.6,4.8
+NY,7,C,Female,13,,Walk,10,,,,,,,,,,,4,4,9.6,7.8,8
+WI,12,A,Male,17,175,Car,10,Soccer,Yes,No,Mathematics and statistics,8,6,9,3,5,2,4,2,11,12.4,9.8
+OH,7,C,Male,44,184,Car,30,Other,No,No,Mathematics and statistics,6,8,1,8,2,20,3,2,14.6,13.6,13.2
+NC,12,A,Female,17,168,Car,30,None,Yes,No,Other,9,10,0,7,3,2,3,3,14.2,12.6,13.2
+WI,8,B,Male,14,183,Car,15,Football (American),No,No,Other,6,4,50,20,2,3,2,4,10.8,11.4,12
+CA,9,B,Male,14,161,Car,8,Other,Yes,No,Mathematics and statistics,8,10,20,10,3.5,7,3,2,13.2,12.2,12.6
+NC,11,A,Female,17,166,Car,15,Walking/Hiking,No,No,English,8,10,3,8,9,8,4,4,12.6,12.6,13.4
+CA,12,A,Female,17,168.9,Car,35,Dancing,Yes,No,English,6,10,15,15,3,1,3,3,13.2,16.2,14.6
+CT,12,A,Female,16,158,Bus,10,Baseball/Softball,No,No,History,9,10,2,12,6,3,1,1,15.8,16,15
+FL,12,A,Male,18,176,Car,7,Football (American),No,No,English,8,10,14,10,3,2,1,2,14.6,13.8,14
+AZ,6,C,Male,11,153,Car,2,Martial Arts,Yes,No,Mathematics and statistics,4,4,8,7,3,6,2,1,7.2,11.4,10.6
+PA,12,A,Female,17,162.5,Bus,20,Tennis,Yes,No,Art,6,11,,,,,1,2,10,9.6,8.6
+AK,12,A,Female,18,152,Car,20,Swimming,Yes,No,Languages,5,8,1,1,3,2,3,2,17.4,15.6,16
+SC,11,A,Female,16,158,Bus,25,Martial Arts,No,No,English,7,10,3,10,14,6,1,1,14.2,13.6,12.6
+WA,12,A,Male,16,173,Car,13,Baseball/Softball,Yes,No,Physical education,9,7,,,,,2,3,17,17.4,18.8
+IL,12,A,Male,17,196,Car,3,Baseball/Softball,,,,,,,,,,2,1,11.6,13.4,12.8
+OH,4,D,Male,9,141,Car,53,None,No,No,History,8,9,15,6,4,2,4,3,17.2,16.6,16.2
+MD,7,C,Female,24,166,,,,No,No,,,,,,,,3,4,12.8,17.2,17.8
+MD,7,C,Female,12,154,Bus,15,Dancing,Yes,No,Music,8,5,2,8,8,1,4,4,16.6,17,15.8
+VA,6,C,Female,12,161,Car,30,Athletics,No,No,Art,8,7,11,14,10,5,4,3,11.6,11.2,9.8
+DC,6,C,,,,,,,,,,,,,,,,2,2,11.8,16.6,16.2
+CA,12,A,Male,18,171,Car,30,Swimming,Yes,No,Computers and technology,6,6,,,,,2,2,8,11.6,10.8
+TX,12,A,Female,17,158,Car,10,Running/Jogging,Yes,No,Art,8,9,0,3,3,2,3,1,16.4,16.6,17
+KS,12,A,Female,17,158,Car,10,Dancing,No,No,Music,6,10,6,4,8,1,0,2,17.4,16.8,16
+KS,12,A,Female,16,157,Car,22,Dancing,No,No,Science,5,8,0,21,0,5,4,4,12.4,13,12.8
+FL,11,A,Female,17,152.4,Car,30,Dancing,No,No,Other,8,10,4,1,10,3,3,3,15.2,16,15.6
+WI,9,B,Male,15,59,Bus,7,Basketball,No,No,Art,8,5,4,3,10,1,2,2,12.6,13.8,12
+WY,9,B,Female,15,161,Car,10,Tennis,Yes,No,Music,9,11,0,15,3,2,4,4,11.6,12,11.8
+MI,12,A,Female,18,152.4,Car,5,Cycling,No,Yes,Science,8.5,9,5,5,1,3,4,4,12.2,12.6,13
+DE,12,A,,,,,,,,,,,,,,,,2,2,15.6,13.8,14.2
+VT,11,A,Male,17,177.8,Walk,2,Swimming,Yes,No,Mathematics and statistics,6,9,5,40,10,0,2,4,15.6,18,16.2
+NC,12,A,Female,17,165,Car,17,Dancing,Yes,No,Music,6,11,5,30,40,1,3,3,11.2,10.8,8.6
+ID,12,A,Male,24,140,Car,5,Tennis,No,No,History,7,6,2,10,0,0,2,2,19.2,16.6,16.4
+MD,11,A,Male,17,183,Car,10,Other,Yes,No,Physical education,6,9,5,15,2,3,2,2,9.6,8.6,8
+PA,12,A,Female,17,160,Car,15,Baseball/Softball,No,No,English,8,10,5,30,10,2,3,4,14,15.2,14.4
+NC,12,A,Male,16,174,Walk,5,Swimming,Yes,No,Science,5,9,40,30,2,0,3,1,8.6,13.6,11.6
+TN,6,C,Male,12,147,Car,3,Soccer,Yes,No,Mathematics and statistics,8,8,15,10,3,0,3,2,9,9.2,9.8
+NC,12,A,Female,17,165,Car,7,Other,No,No,Science,6,9,10,20,2,0,3,3,11.6,13.6,12.4
+OR,12,A,Female,17,69,Bus,15,Swimming,No,No,English,7,9,0,10,1,10,3,2,14,14.6,16
+CA,12,A,Female,17,160,Car,10,Other,Yes,No,Mathematics and statistics,6,8,7,5,1,2,2,1,12,12.2,11.6
+NC,12,A,Female,17,160,Car,6,Soccer,Yes,No,Music,8,13,2,9,0,3,4,4,10.4,10.6,9.4
+IN,10,A,Male,15,176,Bus,3,Running/Jogging,No,No,English,9,11,4,1,2,4,3,4,12.2,12.4,10.8
+DE,12,A,Male,17,172.7,Car,8,Swimming,Yes,No,Mathematics and statistics,6,8,2,20,2,1,2,2,11,14,12.2
+OK,12,A,Male,17,165,Car,7,None,No,No,History,4,12,10,40,10,5,2,3,16,16,15.8
+IN,11,A,Male,17,173,Bus,30,Swimming,Yes,No,Computers and technology,6,9,10,70,20,20,3,2,12.6,12,10.8
+HI,11,A,Female,16,160,Bus,25,Skateboarding/Rollerblading,,,,5,8,3,8,9,0,4,3,15.8,15.8,17.4
+UT,12,A,Male,17,,,,,,,,,,,,,,4,3,14.8,15.6,14.4
+CA,11,A,Male,18,,Car,20,Soccer,No,No,History,5,10,20,5,3,0,4,3,9.2,11.6,12.8
+NJ,12,A,Male,16,167.6,Walk,12,Cycling,,,,,,,,,,3,2,14.4,17.6,18.4
+IN,11,A,Male,17,183,Car,10,Soccer,Yes,No,English,7,10,10,16,8,6,1,1,11.6,12.8,12.8
+TX,8,B,Male,14,176,Bicycle,5,,,,,,,,,,,3,3,9.4,10,9.4
+NC,11,A,Female,17,153,Car,9,Dancing,Yes,No,Computers and technology,7,9,3,9,7,3,1,3,13.6,15.6,16.8
+SC,11,A,Male,16,173,Bus,35,Other,No,No,Science,7,12,6,21,21,0,1,1,13.6,14.2,13.4
+SD,9,B,Male,14,155,Walk,7,Athletics,Yes,No,Computers and technology,10.5,8,3,10,10,2,4,3,13,15,13.6
+OR,9,B,Female,15,166,Bus,22,Basketball,No,,Art,8,11,8,7,11,2,3,3,10,10.8,10.2
+MN,12,A,Male,17,175,Car,5,Athletics,Yes,No,Mathematics and statistics,7,10,1,6,0,3,4,4,9.6,14.2,13.6
+DC,10,A,Male,15,170,Bus,45,,,,,,,,,,,3,1,11.6,12,12.8
+TN,6,C,Female,12,59.5,Car,5,Dancing,Yes,No,Social studies,8,8,100,168,100,30,1,1,14.2,14.8,13.6
+FL,11,A,Female,17,165,Car,10,Swimming,Yes,No,Art,8,5,5,17,10,5,3,2,11.6,10.4,9.6
+NC,11,A,Female,17,168,Car,10,Dancing,Yes,No,Science,5,8,0.5,1,1,2,1,1,13.2,18,16.6
+CA,11,A,Female,17,152.4,Bus,15,Other,Yes,No,English,7,8,10,75,10,1.5,4,4,8.8,10.6,8.6
+CA,12,A,Female,17,157.4,Bus,30,Dancing,No,No,English,7,6,0,50,25,15,1,1,10.2,12.6,13.2
+CA,12,A,Male,16,,Car,4,Baseball/Softball,,,,,,,,,,1,1,15.6,16.6,15.4
+CA,8,B,Male,14,177,Car,35,Football (American),Yes,No,Physical education,4,7,10,10,2,20,4,2,14.4,14.2,13
+NJ,12,A,Male,17,181,Bus,15,Basketball,No,No,Mathematics and statistics,7,5,10,4,6,0,3,3,12,12.8,13.4
+IL,12,A,Female,17,180,Car,7,Soccer,Yes,No,English,7,10,25,2,2,2,4,3,11,12.2,12
+FL,12,A,Male,17,174,Car,15,Lacrosse,Yes,,Geography,6,8,5,5,5,3,2,2,12.8,13.4,12.8
+MI,12,A,Male,17,189,Car,10,Golf,Yes,No,Art,7,9,5,10,4,7,4,4,11.4,12.8,12
+MA,12,A,Female,17,161,Car,3,Athletics,No,No,History,6,5,10,30,5,1,3,2,14,15,14.8
+CA,12,A,Male,17,172,Walk,6,Running/Jogging,Yes,No,Mathematics and statistics,7.5,8,14,28,21,2,3,4,16.8,14.4,15.2
+VT,10,A,Male,15,180,Car,5,Basketball,Yes,No,Physical education,9,11,18,,,,4,4,13.2,14.2,15.2
+CA,6,C,Female,11,,,,,,,,,,,,,,2,1,11.2,13,14.6
+AZ,12,A,Male,18,173,Car,10,Soccer,No,No,Social studies,6,10,4,3,10,3,4,4,11.8,10.6,11.2
+VA,12,A,Male,17,180.3,Bus,30,Basketball,,,,,,,,,,4,3,17.4,17.8,16.8
+WI,12,A,Male,17,177.8,Car,20,Other,Yes,No,Science,6,7,10,16,7,3,2,2,14.6,15,12.8
+CA,12,A,Male,17,172,Car,5,Basketball,Yes,No,Art,6,9,25,25,35,10,4,4,17,18.2,17.8
+MA,8,B,Female,14,136,Bus,30,Baseball/Softball,Yes,No,Physical education,5,5,5,13,0,3,4,4,9.8,10.8,8.4
+CA,12,A,Male,17,182.8,Car,10,Baseball/Softball,No,No,History,7,7,3,6,10,2,3,3,16.4,17.4,18
+NJ,10,A,Male,14,162.6,Car,20,Basketball,Yes,No,Mathematics and statistics,8.5,10.5,12,20,2,1,3,2,16,18,18
+NH,12,A,Female,17,168,Car,15,Soccer,,,,,,,,,,4,3,9.6,10.2,8.6
+NC,12,A,Male,17,5'10,Car,20,Football (American),No,No,Physical education,7,9,72,168,36,59,4,3,17,16.6,18.8
+CA,12,A,Male,18,176,Bicycle,7,Baseball/Softball,Yes,No,Science,8,9,18,18,1,1,4,4,14,15.6,15.2
+OH,12,A,Male,17,189,Car,3,Football (American),,,,,,13,20,10,5,4,2,17.8,16.8,16.2
+NY,12,A,Male,18,180,Car,15,Golf,No,No,Mathematics and statistics,4,7,2,21,0,0,2,2,14.4,17.2,15.8
+CA,12,A,Female,16,168,Car,10,Other,Yes,No,Art,7,10,20,9,2,10,2,4,16,17.2,17.4
+AR,6,C,Male,11,173,Walk,2,Soccer,No,No,History,6,0,8,0,1,5,2,2,8.6,11.4,10
+SC,11,A,Male,17,201,Car,10,Table Tennis,No,No,Science,7,9,12,2,8,5,2,2,10.8,12.2,12.2
+NY,12,A,Female,18,163,Rail (Train/Tram/Subway),63,Other,Yes,No,Physical education,5,9,3,40,2,3,4,2,16.4,16.4,15.6
+ID,12,A,Male,19,164.6,Walk,2,Lacrosse,Yes,No,Other,5,8,2,5,1,2,3,4,14.8,16,15.6
+OH,4,D,Male,10,,Car,8,Basketball,No,No,Physical education,10,14,10,3,7,3,4,4,12.6,12.4,12.8
+CA,7,C,Female,12,160,Car,5,Soccer,Yes,No,Physical education,8,11,1,10,2,2,4,4,9.4,11.2,10.2
+VA,11,A,Male,16,168,,,,,,,,,,,,,4,4,2.6,5.8,4.6
+AK,12,A,Male,17,162,Bus,22,Soccer,Yes,No,Mathematics and statistics,7,9,6,5,0,2,4,3,13.4,11.6,11.2
+NM,12,A,Male,18,168,Walk,2,Walking/Hiking,Yes,No,Social studies,6,9,6,10,2,0,3,3,11.4,11.8,10.8
+GA,12,A,Female,17,162,Car,5,Soccer,Yes,No,English,7,9,0,9,1,5,3,2,12.8,15.6,16.6
+WI,5,D,Female,10,61,,3,Basketball,Yes,No,Mathematics and statistics,10,5,100,,,,2,3,17,20,20
+SC,10,A,Male,16,188,Car,10,Running/Jogging,No,No,Music,6,12,6,9,8,6,4,3,14,16,17.2
+TX,12,A,Male,17,177,Car,15,Football (American),Yes,No,Art,6,10,,,,,4,4,18,14.6,16.6
+NC,9,B,Male,15,163,Bus,25,Soccer,No,No,Mathematics and statistics,9,11,,,,,3,4,10.6,14,13.8
+MA,12,A,Female,18,162,Rail (Train/Tram/Subway),45,Swimming,No,No,Science,5,8,2,20,6,7,2,2,14.8,14.6,15
+NE,12,A,Female,17,,Car,13,Soccer,No,No,Science,7,9,5,3,10,5,2,2,12.2,14.2,13.4
+OH,12,A,Female,17,152.7,Car,5,Other,Yes,No,English,8,7,0,0,4,4,4,4,11,14.8,14.6
+ID,12,A,Male,25,178,Skateboard/Scooter/Rollerblade,7,Martial Arts,No,No,Physical education,6,6,1,16,2,0,4,4,13,12.6,13.2
+WI,12,A,Female,17,169,Car,14,Baseball/Softball,No,No,Physical education,7,9,21,12,15,6,2,2,15.4,15.4,15.8
+TX,11,A,Female,17,178,Bus,90,Basketball,Yes,No,Mathematics and statistics,6,10,4,35,10,7,2,2,14.8,12.2,11.2
+MO,12,A,Male,17,183,Car,7,None,No,No,Music,8,10,0,40,1,1,4,3,18.8,18.4,17
+NY,12,A,Female,17,64,Bus,50,Hockey (Field),Yes,No,English,7,10,5,60,5,3,3,3,10.8,12.8,13.6
+MA,12,A,Female,17,157,Car,5,Baseball/Softball,Yes,No,Social studies,5,5,2,20,3,5,4,3,10.4,9.8,8.6
+OH,4,D,Female,10,151,Car,10,Soccer,Yes,No,History,,12,5,4,5,1,4,2,14.6,15,14.2
+PA,12,A,Male,17,173,Car,5,Soccer,No,No,History,7,10,15,1,7,3,4,4,16.2,14.4,11.6
+WA,12,A,Male,17,180,Car,20,Table Tennis,Yes,No,Science,7,10,0,13,2,1,2,2,12.4,15,14.4
+RI,6,C,Male,12,164,Car,4,Soccer,Yes,No,Mathematics and statistics,9,9,4,11,0,1,4,2,11,12,12.2
+NJ,9,B,Male,15,170,Car,25,Baseball/Softball,No,No,Mathematics and statistics,8,11,9,20,1,1,4,2,11,12.2,12.2
+TX,12,A,Female,17,164,Car,11,Dancing,Yes,No,Social studies,4,11,14,25,3,4,4,4,12.2,12.4,12.2
+GA,9,B,Female,15,,Bus,20,Swimming,No,No,English,7,5,0,10,4,14,3,3,15,14,12.8
+MI,9,B,Female,14,160,Car,23,Baseball/Softball,No,No,Mathematics and statistics,8,9,7,10,3,3,2,1,15.8,13,11.8
+PA,11,A,Male,17,168,Car,15,Athletics,Yes,No,Mathematics and statistics,8,9,1,3,2,10,4,3,14,14,13.6
+IL,4,D,Male,9,142,Bus,15,Basketball,Yes,No,History,11,13,20,20,10,20,4,4,14.4,13,11.8
+MN,9,B,Male,14,145,Bus,20,Basketball,No,No,History,7,5,2,8,6,0,1,2,7.6,9.2,6.6
+OH,12,A,Female,17,153,Car,5,Other,Yes,No,Science,8,10,2,15,17,5,4,2,11.4,14.2,12.6
+MA,8,B,Female,14,163,Bus,15,Soccer,Yes,No,English,8,9,7,5,2,2,4,4,15.2,14.2,14
+PA,12,A,Female,16,152.4,Bus,12,Other,No,No,Art,6.5,10,3,40,15,4,1,1,9,9,7.6
+SC,12,A,Male,17,183,Car,8,Cycling,Yes,No,Physical education,7,12,8,25,6,8,1,2,15.4,14.6,14.8
+SC,11,A,Male,16,,,,,,,,,,,,,,4,3,8,7.8,6
+IN,11,A,Male,18,178,Car,9,Baseball/Softball,No,No,English,6,8,14,4,1,1,4,3,15.6,16.6,15.6
+SC,11,A,Male,17,178,Car,15,Athletics,No,No,Music,8,8,4,15,6,2,4,3,12.6,13,13.2
+TX,12,A,Female,17,166,Car,15,,,,,,,,,,,4,4,16.6,14,14.6
+VT,12,A,Male,17,181,Car,3,Soccer,Yes,No,Other,9,11,8,8,12,0,3,1,11,10.4,9.4
+GU,9,B,Male,15,157,,,,,,,,,,,,,2,2,17.6,15.6,15.2
+CA,12,A,Female,17,162.5,Car,5,Walking/Hiking,No,No,History,9,10,5,0,5,4,3,1,16.4,16.6,17
+NC,11,A,Female,16,162.4,Car,15,Walking/Hiking,,,,,,,,,,3,1,17.2,14.2,14.2
+WI,8,B,Female,14,5,Car,7,,Yes,No,,7,9,6,,,,4,2,12.2,14.8,14.4
+MN,12,A,Female,17,157,Car,6,Swimming,Yes,No,History,7,9,2,25,25,2,1,1,15.6,17,18.6
+TN,9,B,Female,14,163,Car,15,Swimming,No,No,Science,7,11,8,1,5,2,3,1,13.4,12.6,13.2
+WI,12,A,Male,17,170,Car,10,Baseball/Softball,No,No,History,8,9,1,7,0,5,3,3,16.6,17.4,16.6
+NC,12,A,Male,17,179,Walk,5,Athletics,No,No,Science,6,8,5,8,0,0,4,3,13.6,14.8,13.8
+MI,12,A,Male,17,175,Car,5,,,,,,,,,,,4,0,10.6,10.4,8.8
+NY,12,A,Male,17,177.6,Car,12,Football (American),Yes,No,History,6,10,5,81,1,0,2,2,18.2,17.6,18
+MN,11,A,Female,16,163,Walk,5,Other,Yes,Yes,Music,6,10,0,1,10,0,2,1,13.4,13.2,13.2
+MA,8,B,Female,13,166,Car,10,Dancing,No,No,Art,7,11,6,8,5,2,3,4,10.6,12.8,12.4
+MA,12,A,Male,18,183,Car,10,Basketball,No,No,History,8,10,15,6,12,6,2,3,17.2,20,20
+CO,8,B,Female,13,163,Car,20,Gymnastics,Yes,No,Physical education,9,11,6,35,4,2,2,3,15,14,12.2
+IA,8,B,Male,14,165,Bus,20,Baseball/Softball,No,No,Physical education,7,10,5,12,4,5,3,2,11,7.6,7
+TX,12,A,Male,16,178,Car,10,Swimming,No,No,History,5,4,5,2,5,2,2,2,18.6,17.2,19
+CA,12,A,Male,17,168,Walk,15,Football (American),No,No,History,7,9,3,119,10,3,1,1,12.4,14.2,13.2
+TX,12,A,Male,17,180,Car,10,Tennis,,,,,,,,,,4,4,16.6,15.2,14.2
+MD,12,A,Female,17,175.3,Car,11,Dancing,No,Yes,Mathematics and statistics,7,11,0,28,12,5,2,2,14.6,14.4,12.8
+IN,12,A,Male,17,177.8,Bus,11,None,No,No,Mathematics and statistics,9,10,5,10,10,2,4,2,11.4,10.4,10.6
+CA,7,C,Female,13,151,Car,45,Dancing,Yes,No,Physical education,6,10,20,10,4,5,2,2,14,15,15
+WI,7,C,Male,13,174,Bus,15,Basketball,,No,Physical education,10,10,13,1,1,6,4,4,11,12.4,12.8
+SD,9,B,Male,14,166,Car,20,Basketball,No,No,Physical education,7,8,8,50,0,2,3,3,13,11.2,10.2
+IL,6,C,Male,12,155,Bus,11,Other,No,No,Physical education,9,12,6,1,8,0,4,3,15.2,17,17.6
+MO,6,C,Male,12,147,Car,15,Hockey (Ice),Yes,No,Physical education,7,10,12,10,4,3,3,1,11.8,9.4,9.2
+NC,12,A,Male,18,170.2,Car,10,Football (American),Yes,No,Science,7,5,,,,,4,2,14.8,14.6,15.4
+GU,7,C,Male,13,147,Bus,20,Soccer,No,No,Mathematics and statistics,10,5,10,20,0,45,2,2,13,11.8,12
+IA,8,B,Female,14,157.4,Car,5,Other,No,No,Other,8,6,5,9,6,1,1,1,17.8,17.4,17.8
+WI,12,A,Male,16,191,Car,4,Soccer,No,No,Physical education,8,10,10,30,15,2,4,3,14.2,16.4,16.4
+IN,11,A,Female,17,165,Car,7,Tennis,Yes,No,Science,7,9,10,20,5,10,2,1,12.6,13.8,11.8
+CA,6,C,Male,11,153,Car,15,Basketball,Yes,No,Physical education,9,7,8,5,8,2,4,4,11.4,11,12
+PA,12,A,Male,17,188.8,Car,10,Baseball/Softball,Yes,No,Social studies,6.5,11.5,5,20,1,1,4,3,11.2,13.4,11.2
+SC,12,A,Male,18,182.8,Car,2,,,,,,,,,,,4,4,9.8,8.8,8.2
+CA,12,A,Male,16,71,Car,5,Basketball,Yes,No,History,7,5,15,4,1,5,4,4,5.6,8.8,10
+NC,12,A,Female,20,150,Walk,15,Dancing,Yes,No,Mathematics and statistics,6,10,0,20,0,15,4,4,13.8,14.6,14.2
+NC,11,A,Female,17,162,Car,7,Baseball/Softball,No,No,Languages,7,9,2,1,2,3,3,2,9.8,12.4,12
+MA,12,A,Male,18,183,Rail (Train/Tram/Subway),40,Soccer,No,No,Physical education,6,10,1,40,15,1,3,2,13.4,12.4,11.6
+TX,12,A,Male,17,167,Car,17,Tennis,No,No,English,6,14,2,10,6,21,1,1,14.8,17,16.4
+IN,11,A,Male,17,182,Car,5,Soccer,No,No,Physical education,5,9,10,0,20,0,1,1,9.4,13.4,12.6
+CA,12,A,Female,17,167.5,Car,25,Soccer,No,No,English,7,9,8,10,5,5,1,4,12.6,12.6,13.8
+NC,12,A,Male,16,54,Bus,5,None,No,No,Other,5.5,8,0,10,4,2,1,1,14.6,10.2,10.6
+SC,11,A,Female,16,157.5,Car,15,Running/Jogging,No,No,Music,5,9,13,10,5,5,3,3,18.2,18.8,19.2
+MA,12,A,Female,17,174,Car,20,Rowing,No,No,Science,6,10,,,,,4,4,16,17.4,15.8
+CA,12,A,Female,16,156,Car,6,Other,No,No,English,7,9,7,15,1,4,1,2,13.2,14.6,13.6
+AR,7,C,Female,12,160,Car,6,Soccer,Yes,No,Physical education,8,5,5,35,50,4,1,3,10.4,9.6,8.6
+OH,12,A,Male,17,95,Car,3,Football (American),No,No,Social studies,8,7,16,1,15,2,4,4,13,14.2,13
+PA,5,D,Male,11,156,Car,4,Basketball,Yes,No,Social studies,10,13,14,14,35,7,1,1,16.6,15,14.2
+GA,9,B,Female,14,165,,,,,,,,,,,,,2,3,16,17,15.6
+CA,7,C,Female,12,164,Car,5,None,No,No,Social studies,7,10,0,15,1,0,4,4,13.6,13.6,11.8
+AR,5,D,Female,10,,Walk,10,Hockey (Field),,,,,,,,,,3,2,13.6,14.6,13.6
+NE,9,B,Female,14,166,Car,30,Athletics,No,No,Other,9,12,10,1,2,1,1,2,12.4,8.6,9
+CA,12,A,Female,17,162.5,Car,5,Running/Jogging,Yes,No,Science,7,10,7,4,8,5,2,2,15.2,17.6,16.8
+TX,12,A,Male,16,173,Car,5,Other,No,No,History,6,12,2,3,0,1,1,2,15.4,15.8,16.6
+SC,12,A,Female,16,170,Car,10,Baseball/Softball,No,No,Art,7,11,10,6,9,15,4,4,16.6,16.2,16.6
+CA,12,A,Female,15,163,Car,9,None,Yes,No,Music,6,10,0,25,3,1,1,1,14.2,15.6,16.4
+WI,8,B,Female,13,170,Bus,15,Athletics,Yes,No,Art,13,13,1,1,1,,4,2,17.2,18.2,17.8
+CA,12,A,Male,17,183,Car,30,Tennis,Yes,No,Physical education,7.5,12,12,20,15,2,4,4,18.6,19.2,19.2
+OH,10,A,Male,15,180.3,Car,6,Swimming,Yes,No,Physical education,7,9,8,1,2,2,3,3,12,12.8,12
+TX,12,A,Male,17,182,Car,15,Football (American),Yes,No,Physical education,7,9,12,2,2,2,3,1,11.4,11.2,11.6
+OK,12,A,Male,18,173,Car,3,Bowling,No,No,Computers and technology,8,11,3,38.5,0,1,4,4,16.8,15.8,14.8
+AR,8,B,Male,13,162,Bus,25,None,No,No,Science,6,6,0,28,14,0,2,1,13.2,14.2,15
+VA,11,A,Male,16,178,Car,9,Soccer,No,No,Mathematics and statistics,8,10,17,11,7,10,2,3,17,13.8,14.8
+IN,12,A,Male,16,183,Bus,60,Football (American),Yes,No,History,6,10,1,12,1,2,1,1,11.4,13.6,15.2
+VA,11,A,Female,16,160,Other,10,Other,Yes,No,Other,8,6,2,1,1,1,4,2,8.2,9.8,9.8
+AZ,12,A,Female,17,158,Bus,45,Dancing,Yes,No,Science,10,13,3,0,4,0,2,2,15,15.2,15.2
+IN,10,A,Male,15,172.7,Bus,15,Cycling,No,No,Science,9,10,14,14,1,2,4,4,13,12.6,12
+MD,6,C,Female,12,145,Bus,15,Dancing,Yes,No,Social studies,9,10,14,9,4,3,2,3,15.6,13,12
+OH,12,A,Male,17,183,Car,15,Table Tennis,No,No,Languages,4,10,0,56,0,15,3,1,5.2,6.8,5.6
+MI,11,A,Female,16,169,Car,5,Rowing,Yes,No,Science,6,9,5,15,20,10,1,1,14.2,12.8,13.2
+TX,12,A,Male,17,162,Car,35,Running/Jogging,Yes,No,,5,7,2,25,1,10,2,2,17.2,18.4,18.6
+GA,6,C,Female,11,148,Bus,17,Running/Jogging,No,No,,7,8,14,15,3,2,4,3,17.8,16.8,16.2
